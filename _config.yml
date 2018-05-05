@@ -1,10 +1,12 @@
 # Site settings
-title: "Carte Noire"
-email: jacob@jacobtomlinson.co.uk
-description: "A dark blog theme for Jekyll."
+title: "Robot Overlords, Reality, and Artificial Intelligence:"
+title2: "The Philosophy of Science Fiction"
+email: john.atytalla@philosophy.god
+description: "Reference website for a science-fiction and ai themed philosophy course."
 baseurl: ""
-url: "http://carte-noire.jacobtomlinson.co.uk/"
-title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
+url: "https://sci-fi-philosophy.github.io"
+title_description: "Do you ever wonder whether computers could ever gain consciousness and take over the world? Could we be living in a computer simulation? Will brain implants fundamentally change the nature of who we are?
+Science fiction is slowly becoming a reality.  Artificial intelligence is on the horizon, brain implants are real, and some scientists are even trying to upload our consciousness into computers. We will explore works of science fiction, in order to investigate how scientific knowledge comes to effect the personal lives of individuals living within the scientific age. In particular the course will engage in philosophical discussions about the ethical and personal implications of these emerging technologies. The future is now!"
 title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
@@ -15,8 +17,8 @@ post_limit: 5
 # Social usernames/URLs
 twitter_username: _jacobtomlinson
 github_username:  jacobtomlinson
-instagram_username: 
-reddit_username: 
+instagram_username:
+reddit_username:
 linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
 google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
 stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
