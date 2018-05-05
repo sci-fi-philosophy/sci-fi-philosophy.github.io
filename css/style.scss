@@ -283,6 +283,16 @@ ul {
 		margin-right: 0px;
 	}
 
+	.author {
+	    font-size: 21px;
+	    text-align: right;
+	    position: relative;
+	    top: -40px;
+	    font-weight: bold;
+	    font-style: italic;
+	    font-family: inherit;
+	}
+
 	.gravatar {
 		width: 100%;
 		margin-top: -80px;
@@ -293,7 +303,6 @@ ul {
 			height: auto;
 		}
 	}
-
 
 	.author-text {
 		text-align: center;
