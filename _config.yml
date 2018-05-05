@@ -27,7 +27,7 @@ xing_link:
 facebook_link:
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> <strong>John Atytalla</strong>, <small>design by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a></small>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <strong>John Atytalla</strong>, <small>design by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a></small>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
