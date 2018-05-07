@@ -5,8 +5,8 @@
     <description>Reference website for a science-fiction and ai themed philosophy course.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 06 May 2018 20:52:47 -0400</pubDate>
-    <lastBuildDate>Sun, 06 May 2018 20:52:47 -0400</lastBuildDate>
+    <pubDate>Sun, 06 May 2018 21:30:11 -0400</pubDate>
+    <lastBuildDate>Sun, 06 May 2018 21:30:11 -0400</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -25,6 +25,44 @@
 
 &lt;h4 id=&quot;introduction-to-reasoning&quot;&gt;&lt;a href=&quot;https://github.com/sci-fi-philosophy/sci-fi-philosophy.github.io/blob/master/_data/Introduction%20to%20reasoning.pptm?raw=true&quot;&gt;&lt;strong&gt;Introduction to Reasoning&lt;/strong&gt;&lt;/a&gt;&lt;/h4&gt;
 
+&lt;h1 id=&quot;introduction-to-epistemology&quot;&gt;Introduction to Epistemology&lt;/h1&gt;
+
+&lt;h3 id=&quot;descartes-the-matrix-and-how-can-we-ever-know-what-is-real&quot;&gt;Descartes, the Matrix, and how can we ever know what is real?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Rene Descartes&lt;/strong&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes&quot;&gt;https://en.wikipedia.org/wiki/René_Descartes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;(Can We Be Certain of Anything? (Descartes) - 8-Bit Philosophy)&lt;/strong&gt; &lt;a href=&quot;https://youtu.be/cDNCv-ob87E&quot;&gt;https://youtu.be/cDNCv-ob87E&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cartesian Skepticism - Neo, Meet Rene: Crash Course Philosophy #5&lt;/strong&gt; &lt;a href=&quot;https://youtu.be/MLKrmw906TM&quot;&gt;https://youtu.be/MLKrmw906TM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;What is a homunculus?&lt;/strong&gt; (Clip from the film “Men in Black”)
+&lt;a href=&quot;https://youtu.be/aJCCUdK7PiU&quot;&gt;https://youtu.be/aJCCUdK7PiU&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;extra-reading&quot;&gt;Extra Reading&lt;/h1&gt;
+
+&lt;h3 id=&quot;rene-descartes&quot;&gt;Rene Descartes&lt;/h3&gt;
+&lt;h4 id=&quot;meditations-1641&quot;&gt;&lt;em&gt;Meditations (1641)&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;A reasonably short book (60 pages) and a classic introduction to
+philosophy. Here is a free online version! &lt;a href=&quot;http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf&quot;&gt;http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Since the book was originally written in Latin, you can buy newer translations which are sometimes easier to read. I recommend the translation by Donald A. Cress published by Hackett Publishing Company in 1993. Link on Amazon.ca: &lt;a href=&quot;http://a.co/gC532J1&quot;&gt;http://a.co/gC532J1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;hilary-putnam&quot;&gt;Hilary Putnam&lt;/h3&gt;
+&lt;h4 id=&quot;brains-in-a-vat&quot;&gt;&lt;em&gt;Brains in a Vat&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;A very famous paper published in 1981 originally in a book called Reason, Truth, and History. Cambridge University Press, pp. 1-21.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(Disclaimer)&lt;/strong&gt;: This is a tough paper to read and, as with everything you study, it is okay if it doesn’t make sense the first, second, or even tenth time you read it. Often times understanding a subject is like learning to play a video game, a sport, or an instrument – practice makes perfect!! You are never as good at a video game or sport or instrument the first time you play it as you are after you have played it over and over again. Usually this is an essay that will be read at the university level but do not let this
+intimidate you! All knowledge is always more intimidating than it is difficult.&lt;/p&gt;
+
+&lt;p&gt;You can find a link to the paper here: &lt;a href=&quot;http://ieas.unideb.hu/admin/file_2908.pdf&quot;&gt;http://ieas.unideb.hu/admin/file_2908.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;crash-course-youtube-channel&quot;&gt;Crash Course YouTube Channel&lt;/h3&gt;
+
+&lt;p&gt;This is in general a great resource for a number of different subjects
+and they have a playlist called “Crash Course Philosophy”: &lt;a href=&quot;https://youtu.be/1A_CAkYt3GY&quot;&gt;https://youtu.be/1A_CAkYt3GY&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe class=&quot;youtube-iframe&quot; id=&quot;youtube-1A_CAkYt3GY&quot; src=&quot;http://www.youtube.com/embed/1A_CAkYt3GY?color=white&amp;amp;theme=light&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/05/01/what-is-philosophy/</link>

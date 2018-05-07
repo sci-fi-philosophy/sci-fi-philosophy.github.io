@@ -22,4 +22,39 @@ While it is true that you will have already spent your lives thinking, reasoning
 #### [**Introduction to Reasoning**](https://github.com/sci-fi-philosophy/sci-fi-philosophy.github.io/blob/master/_data/Introduction%20to%20reasoning.pptm?raw=true)
 
 
+# Introduction to Epistemology
 
+### Descartes, the Matrix, and how can we ever know what is real?
+
+* **Rene Descartes** [https://en.wikipedia.org/wiki/René_Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+* **(Can We Be Certain of Anything? (Descartes) - 8-Bit Philosophy)** [https://youtu.be/cDNCv-ob87E](https://youtu.be/cDNCv-ob87E)
+* **Cartesian Skepticism - Neo, Meet Rene: Crash Course Philosophy #5** [https://youtu.be/MLKrmw906TM](https://youtu.be/MLKrmw906TM)
+* **What is a homunculus?** (Clip from the film “Men in Black”)
+[https://youtu.be/aJCCUdK7PiU](https://youtu.be/aJCCUdK7PiU)
+
+# Extra Reading
+
+### Rene Descartes 
+#### *Meditations (1641)*
+
+A reasonably short book (60 pages) and a classic introduction to
+philosophy. Here is a free online version! [http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf)
+
+Since the book was originally written in Latin, you can buy newer translations which are sometimes easier to read. I recommend the translation by Donald A. Cress published by Hackett Publishing Company in 1993. Link on Amazon.ca: [http://a.co/gC532J1](http://a.co/gC532J1)
+
+### Hilary Putnam
+#### *Brains in a Vat* 
+
+A very famous paper published in 1981 originally in a book called Reason, Truth, and History. Cambridge University Press, pp. 1-21.
+
+**(Disclaimer)**: This is a tough paper to read and, as with everything you study, it is okay if it doesn’t make sense the first, second, or even tenth time you read it. Often times understanding a subject is like learning to play a video game, a sport, or an instrument – practice makes perfect!! You are never as good at a video game or sport or instrument the first time you play it as you are after you have played it over and over again. Usually this is an essay that will be read at the university level but do not let this
+intimidate you! All knowledge is always more intimidating than it is difficult.
+
+You can find a link to the paper here: [http://ieas.unideb.hu/admin/file_2908.pdf](http://ieas.unideb.hu/admin/file_2908.pdf)
+
+### Crash Course YouTube Channel
+
+This is in general a great resource for a number of different subjects
+and they have a playlist called “Crash Course Philosophy”: [https://youtu.be/1A_CAkYt3GY](https://youtu.be/1A_CAkYt3GY)
+
+{% youtube 1A_CAkYt3GY 880 400 %}
