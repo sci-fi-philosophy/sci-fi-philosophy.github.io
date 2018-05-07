@@ -5,6 +5,7 @@ date:       2018-05-01
 author:     John Atytalla
 summary:    Why does it matter? How do science and fiction relate to it?
 thumbnail:  day1
+youtube:    1A_CAkYt3GY
 ---
 
 The difference between philosophy and other subjects only emerged in the last 200 years. Philosophy is – in its most basic form – the pursuit of knowledge for its own sake. Not to get a job. Not to build a car. Not even for the sake of creating a just political system. It aims the exploration of our universe by way of disciplined study and not only does it seek to help us understand our world but to understand how and why we do understand it. Many people will encourage students to go to university for the sake of getting a job, and, while this is indeed a worthy pursuit the thing that will make you most successful is going to university to learn how to think and understand the world on your own. This course will emphasize the development of critical reasoning skills to discuss questions to which our current scientific knowledge has no determinate answer: even in 2018 nobody has a clear idea of what consciousness is, how it is that we have knowledge of the world, what it means to be sentient or aware, and how technology might change the species for better or for worse. 
@@ -56,5 +57,3 @@ You can find a link to the paper here: [http://ieas.unideb.hu/admin/file_2908.pd
 
 This is in general a great resource for a number of different subjects
 and they have a playlist called “Crash Course Philosophy”: [https://youtu.be/1A_CAkYt3GY](https://youtu.be/1A_CAkYt3GY)
-
-{% youtube 1A_CAkYt3GY 880 400 %}

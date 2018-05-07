@@ -79,7 +79,12 @@ layout: default
           </ol>
         {% endif %}
 
-        <span itemprop="articleBody">{{ content }}</span>
+        <span itemprop="articleBody">
+          {{ content }}
+          {% if page.youtube %}
+          <iframe class="youtube-iframe" id="youtube-{{ page.id }}" src="http://www.youtube.com/embed/{{ page.youtube }}?color=white&theme=light"></iframe>
+          {% endif %}
+        </span>
 
         {% if page.series %}
           {% if seriesnext %}

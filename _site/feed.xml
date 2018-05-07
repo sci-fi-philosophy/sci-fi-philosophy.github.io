@@ -5,8 +5,8 @@
     <description>Reference website for a science-fiction and ai themed philosophy course.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 06 May 2018 21:30:11 -0400</pubDate>
-    <lastBuildDate>Sun, 06 May 2018 21:30:11 -0400</lastBuildDate>
+    <pubDate>Sun, 06 May 2018 21:43:40 -0400</pubDate>
+    <lastBuildDate>Sun, 06 May 2018 21:43:40 -0400</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
       <item>
@@ -61,8 +61,6 @@ intimidate you! All knowledge is always more intimidating than it is difficult.&
 
 &lt;p&gt;This is in general a great resource for a number of different subjects
 and they have a playlist called “Crash Course Philosophy”: &lt;a href=&quot;https://youtu.be/1A_CAkYt3GY&quot;&gt;https://youtu.be/1A_CAkYt3GY&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe class=&quot;youtube-iframe&quot; id=&quot;youtube-1A_CAkYt3GY&quot; src=&quot;http://www.youtube.com/embed/1A_CAkYt3GY?color=white&amp;amp;theme=light&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 01 May 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/05/01/what-is-philosophy/</link>
