@@ -5,6 +5,8 @@ date:       2018-05-01
 author:     John Atytalla
 summary:    Why does it matter? How do science and fiction relate to it?
 thumbnail:  day1
+thumbnail_credit: ???
+thumbnail_credit_link: https://www.princeton.edu/~his291/
 youtube:    1A_CAkYt3GY
 ---
 

@@ -16,6 +16,10 @@ layout: default
       {% if site.data.thumbnail[page.thumbnail] %}
       <div class="thumb">
         <img itemprop="image" src="{{ site.data.thumbnail[page.thumbnail] }}" alt="Thumbnail: {{ page.thumbnail }}" />
+        {% if page.thumbnail_credit and page.thumbnail_credit_link %}
+        <br/>
+        <small>Illustration by <a href="{{ page.thumbnail_credit_link }}">{{ page.thumbnail_credit }}</a></small>
+        {% endif %}
       </div>
       {% elsif page.thumbnail %}
       <div class="thumb">
