@@ -586,3 +586,8 @@ th {
 td {
   padding: 2px;
   border: 1px solid #215A6D; }
+
+#introduction-to-reasoning {
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 50px; }

@@ -24,7 +24,9 @@ layout: default
       {% endif %}
 
       <h1 class="header" itemprop="name">{{ page.title }}</h1>
-      <h4 class="summary" itemprop="name">{{ page.summary }}</h4>
+      {% if page.summary %}
+        <h4 class="summary" itemprop="name">{{ page.summary }}</h4>
+      {% endif %}
 
       <div class="author">
         <small><i>
@@ -43,7 +45,7 @@ layout: default
           </span>
           {% endif %}
           <span itemprop="datePublished" content="2014-08-28">{{ page.date | date: "%B, %Y" }}</span>
-          {% if page.categories != empty %} under {% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
+          {% if page.categories %} under {% for category in page.categories limit:1 %}{{ category }}{% endfor %}{% endif %}
         </i></small>
       </div>
 
